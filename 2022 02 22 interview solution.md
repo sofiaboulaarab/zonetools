@@ -52,20 +52,43 @@ catégorisation des personnes
 - est-ce que tu découvres tout du portage ?
 - est-ce que tu es impliquée ou non ?
 
-
 ## Story telling (3')
 Récapitulatif des problèmes
 1. la zone est composée de plusieurs structures avec des besoins différents, peut-être qu'on va se lancer dans la fabrication d'outils alors qu'on a pas identifié des besoins communs des structures
 2. des peurs non exprimées (voire non conscientisées) qui viennent encombrer / compléxifier les échanges ()
 3. la manière de faire, reproduire des dysfonctions, implication métiers, etc. si on s'accorde pas on risque de faire le produit sans que tout le monde soit satisfait
 
-Raconter l'histoire de ce qu'on vise
+Depuis le premier marché on a porté pleins de SE
+Chaque structure a créer ses propres outils, méthodes pour répondre aux contraintes du workflow
+
+(par exemple : il y a des excels qui trainent un peu partout)
+
+maintenant on a peu-être la maturité vu qu'on connait bien le workflow de l'expression de besoin au paiement
+
+Et on souhaite en profiter pour réaliser ce projet ensemble, pour mieux se connaître
+
+Et faire ses trucs en reprenant un contexte proche de ce que l'on fait à beta.gouv 
+
+En profiter pour tester des trucs et documenter (ex la corémunération)
+Un contexte un peu idéal, sans pression, dans les règles de l'art ;)
 
 ## Présentation de la solution (15')
-- (la présentation sera précise sur le temps, l'espace, etc.)
+- en visio
+- durée : 2h (xtemps par ateliers)
+- lundi à 18h
 
+### 3 ateliers
+
+Pour Brainstormer et faire des voeux
 - et si... (design thinking)
+   
+Pour fixer les attentes, les valeurs
+- scierie des valeurs
+  https://github.com/lilianricaud/travail-en-reseau/blob/master/scierie-des-valeurs.md
+
+Pour identifier les forces/risques/faiblesses et clarifier l'intention 
 - speed boat (innovation game)
+  https://coach-agile.com/speed-boat/
 
 ## terminer (2')
 
