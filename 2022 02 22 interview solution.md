@@ -74,20 +74,20 @@ Un contexte un peu idéal, sans pression, dans les règles de l'art ;)
 
 ## Présentation de la solution (15')
 - en visio
-- durée : 2h (xtemps par ateliers)
+- durée : 2 ateliers de 1h
 - lundi à 18h
 
 ### 3 ateliers
 
-Pour Brainstormer et faire des voeux
+Pour Brainstormer et faire des voeux - 20'
 - et si... (design thinking)
    
-Pour fixer les attentes, les valeurs
+Pour fixer les attentes, les valeurs - 40'
 - scierie des valeurs
   https://github.com/lilianricaud/travail-en-reseau/blob/master/scierie-des-valeurs.md
 
 Pour identifier les forces/risques/faiblesses et clarifier l'intention 
-- speed boat (innovation game)
+- speed boat (innovation game) - 40'
   https://coach-agile.com/speed-boat/
 
 ## terminer (2')
