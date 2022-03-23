@@ -45,7 +45,7 @@ S: Provigis ?
 N: Ce n'est pas un ERP, et ce n'est toujours pas automatique. Ils appellent et donc pas automatique.
 N: On s'est posé la question de le prendre
 
-S: pour gérer le cas d'usage : récupérer et payer les factures sosu-traitants
+S: pour gérer le cas d'usage : récupérer et payer les factures sous-traitants
 N: on a drafté, les factures, budget, BdC
 N: ce qui serait bien ce serait d'uniformiser tous les outils disparates des ministères : trello, notion, etc.
 N: on peut partager la base de code
@@ -69,6 +69,8 @@ N: on a décidé de ne pas prendre et de mutualiser avec scopyleft
 N: on devrait voir avec scopyleft
 N: il faudrait que l'on se cale pour se synchroniser et partager
 N: le partage d'info entre nous est peut-être difficile entre nous
+N: [gros problème parce que chaque boite à son fonctionnement, ses outils, partager le même front office - Back office différent ?]
+N: [c’est pas une condition sine qua non de construire ensemble - en revanche, qu’est-ce qu’on pourrait mutualiser entre nous ? Et comment ? un intranet ?]
 N: encore un outil avec un google sheet
 N: peut-être une API
 N: peut-être biais de tech, mais c'est quand même sans doute automatisable
@@ -77,13 +79,13 @@ N: les factures c'est chronophage, et du coup c'est ça qu'on souhaitait automat
 N: si on avait des reporting intra-zone
 N: peut-être une API push/pull
 N: notre démarche est de faire un truc pour automatiser
-N: le prochain truc ce serait d'avoir un dashboard propre pour les intras
+N: le prochain truc ce serait d'avoir un dashboard propre pour les intras [pour qu'ils puissent suivre où en est le budget]
 N: et relance automatique pour les factures et service fait
 N: et extérieur pour trello/notion - node-RED
-N: je pense qu'il faudrait passer sur un mode open-source pour développer un truc
+N: je pense qu'il faudrait passer sur un mode open-source pour développer un truc [comment on itère ensemble sur des trucs existants?]
 N: je veux pas avoir d'entrave, je veux répondre à mon cas d'usage, mais faut d'abord que ça réponde à mon cas d'usage
-
-N:     https://n8n.io/
+[N: merci de faire le lien]
+N: https://n8n.io/
 
 
 
