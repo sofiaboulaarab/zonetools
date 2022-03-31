@@ -46,3 +46,11 @@ en même temps la feuille me permet de clarifier dans ma tête.
 S: Reloud ?
 E: C'est marrant à faire
 E: satisfaction d'être mon propre client
+E: je fais les trucs pour moi
+
+J: les embrouilles liés au Bdc non émis 
+
+E: comment on fait une facture ? (Question de sous-traitant)
+E: conseiller les sous-traitants ? 
+
+E: relance à la main
