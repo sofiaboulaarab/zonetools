@@ -15,3 +15,34 @@ E: Les hommes portent, on est trois à faire, Raf fait à sa sauce, et Jo copie 
 
 S: Process
 E: expression de besoin, mail
+E: Devis en .md puis moulinette puis commande pour faire un .pdf
+E: (cf. copie écran)
+E: Montre l'écran
+E: Puis envoi par mail
+E: Formulaire pour poster les factures s/traitantes - airtable
+E: J'ai des scripts pour vérifier la facture
+E: Je note les jours dans un google sheet
+E: Et le script m'ouvre un mail que j'envoie
+E: Notre compta c'est un fichier texte de transaction
+
+S: Clause sociale
+E: dans la compta on provisionne 1% pour la clause sociale
+
+S: Critique ?
+E: je m'amuse bien
+E: s'il y avait du non-dev ça ne marcherait pas
+J: beaucoup d'opération manuelle
+J: se muscler sur ce qui est fait ou pas fait 
+J: par exemple l'intégration des factures à plusieurs
+J: Pour l'instant c'est Etienne qui fait beaucoup de choses
+J: je ne sais pas ce qu'il y a faire
+J: pour l'instant on est mono-SE
+
+S: Automatiser ?
+J: 
+E: quand arrive un nouveau BC, que ça créé toutes les feuilles de suivi
+en même temps la feuille me permet de clarifier dans ma tête. 
+
+S: Reloud ?
+E: C'est marrant à faire
+E: satisfaction d'être mon propre client
