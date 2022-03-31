@@ -54,3 +54,5 @@ E: comment on fait une facture ? (Question de sous-traitant)
 E: conseiller les sous-traitants ? 
 
 E: relance à la main
+E: générer le PV et le SF à automatiser
+E: pour les notifs je reporte 
